@@ -1,12 +1,17 @@
-# 👋 Welcome to my GitHub profile. I am a computer and telecommunications engineer, my work here on GitHub is free, open source and accessible to all.
+Hi 👋, I'm bitpredator, I'm a computer and telecommunications engineer, my work is free, open source and accessible to everyone.
 
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bitpredator&theme=discord&no-frame=true&no-bg=false&margin-w=4)
+I have contributed to organizations such as:
+
+<p align="left">
+  <a href="https://github.com/overextended">overextended</a> Overextended is a group working to create open source resources for FiveM <br> 
+  <a href="https://github.com/facebook/docusaurus">Facebook - Meta - docusaurus</a> <br>
+  <a href="https://github.com/esx-framework">esx-framework</a>
+</p>
+
+<p align="center">
+  <a href="https://bitpredator.github.io/bptdevelopment/">Website</a> -
+  <a href="https://discord.com/invite/ksGfNvDEfq">Discord</a>
+</p>
+
+#
 <img src="https://github-readme-stats-ten-gilt.vercel.app/api?username=bitpredator&layout=compact&theme=dark" />
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bitpredator&langs_count=10&theme=dark" />
-## Visitor Count <img src="https://profile-counter.glitch.me/bitpredator/count.svg" />
-
-
-<h1 align="center">bitpredator &copy; 2023 </h1>
-
-
