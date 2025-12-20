@@ -52,7 +52,7 @@ I am an engineer with a strong passion for open and collaborative technologies. 
 | Resource | Link |
 |----------|------|
 | Official Website / Docs | [BPT DEVELOPMENT](https://bitpredator.github.io/bptdevelopment/) |
-| Discord | [Invite Link](https://discord.com/invite/ksGfNvDEfq) |
+| Discord | [Invite Link](https://discord.gg/Jrm2Z26ad3) |
 | Featured Repos | `empiretown`, `bpt_resourcepack`, `es_extended`, `bpt_wallet` |
 
 ---
@@ -64,3 +64,4 @@ I am an engineer with a strong passion for open and collaborative technologies. 
 Thank you for visiting! If you have questions, want to collaborate, or discuss ideas, feel free to reach out.
 
 > *“The only way to do great work is to love what you do.”* – Steve Jobs
+
